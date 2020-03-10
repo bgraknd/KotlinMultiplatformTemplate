@@ -1,0 +1,4 @@
+rootProject.name='Mpp401'
+
+include ':AndroidApp',':sharedcode'
+enableFeaturePreview('GRADLE_METADATA')
